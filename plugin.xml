@@ -22,7 +22,7 @@
             </feature>
         </config-file>
         <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-            <string>This app requires microphone access to record audio.</string>
+            <string>This will allow you to use your microphone to record evidence when creating an infringement.</string>
         </config-file>
         <header-file src="src/ios/AudioRecorderPlugin.h" />
         <source-file src="src/ios/AudioRecorderPlugin.m" />
